@@ -1,6 +1,9 @@
 .red {
   color: red;
 }
+button {
+  background: red;
+}
 button:hover {
   background: orange; 
 ｝
