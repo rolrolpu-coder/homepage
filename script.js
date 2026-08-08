@@ -1,2 +1,1 @@
-let namae = "りだよ";
-console.log(namae);
+let namae = 
