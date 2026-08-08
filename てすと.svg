@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="48"
+   height="48"
+   viewBox="0 0 48 48"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.4 (dcaf3e7, 2026-05-05)"
+   sodipodi:docname="てすと.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="true"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     inkscape:zoom="8.5919888"
+     inkscape:cx="20.775167"
+     inkscape:cy="19.727679"
+     inkscape:window-width="1366"
+     inkscape:window-height="697"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1">
+    <rect
+       x="7.4068544"
+       y="6.2546771"
+       width="33.330845"
+       height="6.5838706"
+       id="rect7" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:#ff0000;stroke-width:0;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0;paint-order:stroke markers fill"
+       id="rect3"
+       width="35.929588"
+       height="9.8916025"
+       x="6.033978"
+       y="4.5254831"
+       ry="0.19428626" />
+    <text
+       xml:space="preserve"
+       id="text7"
+       style="font-size:3.77953px;font-family:'Meiryo UI';-inkscape-font-specification:'Meiryo UI';writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect7);opacity:1;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke markers fill" />
+    <text
+       xml:space="preserve"
+       style="font-size:9px;font-family:'Meiryo UI';-inkscape-font-specification:'Meiryo UI';writing-mode:lr-tb;direction:ltr;white-space:pre;inline-size:31.0418;opacity:1;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke markers fill"
+       x="9.3820152"
+       y="11.19258"
+       id="text8"
+       transform="translate(4.8882745,1.6294248)"><tspan
+         x="9.3820152"
+         y="11.19258"
+         id="tspan1">テスト</tspan></text>
+  </g>
+</svg>
